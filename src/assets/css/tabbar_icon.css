@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 1929884 */
+  src: url('../icon/tabbar/iconfont.eot');
+  src: url('../icon/tabbar/iconfont.eot?#iefix') format('embedded-opentype'),
+  url('../icon/tabbar/iconfont.woff2') format('woff2'),
+  url('../icon/tabbar/iconfont.woff') format('woff'),
+  url('../icon/tabbar/iconfont.ttf') format('truetype'),
+  url('../icon/tabbar/iconfont.svg') format('svg');
+}
