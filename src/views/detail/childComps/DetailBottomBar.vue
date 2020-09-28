@@ -43,13 +43,14 @@ export default {
   margin-left:10px;
 }
 .bar-left span{
-  padding-right:5px;
+  padding-right:1px;
 }
 
 .bar-left span:nth-of-type(odd){
    font-family: "iconfont";
    margin-top:10px;
 }
+
 .bar-right span{
   padding:16px 5px;
 }
@@ -59,7 +60,7 @@ export default {
 }
 
 .bar-right span:nth-of-type(2){
-  padding:16px 28px;
+  padding:12px;
   background-color:rgb(248, 27, 119);
   color:#fff;
 }
